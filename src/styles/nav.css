@@ -1,0 +1,5 @@
+nav a.active{
+    
+    border-bottom: 3px solid #19243f;
+    color: #19243f;
+}
