@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/YevgeniyGupalo__Welbex__Assessment/static/js/main.83cdc4e0.js",
+    "main.css": "/YevgeniyGupalo__Welbex__Assessment/static/css/main.a917554d.css",
+    "main.js": "/YevgeniyGupalo__Welbex__Assessment/static/js/main.21432ed1.js",
     "index.html": "/YevgeniyGupalo__Welbex__Assessment/index.html",
-    "main.83cdc4e0.js.map": "/YevgeniyGupalo__Welbex__Assessment/static/js/main.83cdc4e0.js.map"
+    "main.a917554d.css.map": "/YevgeniyGupalo__Welbex__Assessment/static/css/main.a917554d.css.map",
+    "main.21432ed1.js.map": "/YevgeniyGupalo__Welbex__Assessment/static/js/main.21432ed1.js.map"
   },
   "entrypoints": [
-    "static/js/main.83cdc4e0.js"
+    "static/css/main.a917554d.css",
+    "static/js/main.21432ed1.js"
   ]
 }
